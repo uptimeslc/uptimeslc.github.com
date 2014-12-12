@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="">	
+<head>
+	<meta charset="utf-8"/>
+	<title>Archive - Uptime SLC</title>	
+	<meta name="author" content="Clint Savage">
+	
+	<meta name="HandheldFriendly" content="True">
+	<meta name="MobileOptimized" content="320">
+	<meta name="viewport" content="width=device-width, target-densitydpi=160dpi, initial-scale=1.0">
+	
+	<link href='http://fonts.googleapis.com/css?family=Droid+Sans:700,400|Droid+Sans+Mono' rel='stylesheet' type='text/css'>
+	<link rel="stylesheet" href="http://localhost:8000/theme/css/main.css" type="text/css" />
+		
+	<!--[if lt IE 9]>
+		<script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+	
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.min.js"></script>
+	
+	<link href="http://localhost:8000/" type="application/atom+xml" rel="alternate" title="Uptime SLC ATOM Feed" />
+</head>
+	
+<body>		
+	<header class="clearfix" role="banner">
+		<div class="wrapper">
+      <h1 class="huge"><a href="http://localhost:8000"><img src="/theme/images/uptime-slc_wordmark.png" /></a></h1>
+		</div>
+	</header>
+	
+<div role="main" class="content clearfix">
+<div id="jquerytabs" class="wrapper main">
+	<ul class="tabmenu clearfix">
+		<li><a href="#fecha">By date</a></li>
+		<li><a href="#etiqueta">By topic</a></li>
+	</ul>
+	
+	<div id="fecha">	
+	</div>
+	
+	<div id="etiqueta">
+		<h2>Tags</h2>
+		<ul class="tag">
+		</ul>
+	</div>
+		
+</div>
+</div>
+
+<script>
+	$(function() {
+		$("#jquerytabs").tabs();
+	});
+</script>
+	
+		
+<footer class="clearfix">
+	<div class="wrapper pages">
+		<ul class="nav">
+			<li><a href="http://localhost:8000/home.html">Home</a></li>
+			<li><a href="http://localhost:8000/archives.html">Archive</a></li>
+		</ul>
+	</div>
+	
+	<div class="copy wrapper">
+		<ul class="social">
+		</ul>
+	
+		<p role="contentinfo">© 2014 Clint Savage.</p>
+	</div>
+</footer>
+	
+	<script>
+	  var _gaq=[['_setAccount',''],['_trackPageview']];
+	  (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
+	  g.src=('https:'==location.protocol?'//ssl':'//www')+'.google-analytics.com/ga.js';
+	  s.parentNode.insertBefore(g,s)}(document,'script'));
+	</script>
+</body>
+</html>
