@@ -39,12 +39,14 @@
 <footer class="clearfix">
 	<div class="wrapper pages">
 		<ul class="nav">
-<!--
 		{% for p in PAGES %}
+		  {% if p.url == 'home.html' %}
+			<li><a href="{{ SITEURL }}/index.html">{{ p.title }}</a></li>
+      {% else %}
 			<li><a href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a></li>
+      {% endif %}
 		{% endfor %}
-			<li><a href="{{ SITEURL }}/archives.html">Archive</a></li>
--->
+<!-- 			<li><a href="{{ SITEURL }}/archives.html">Archive</a></li> -->
 		</ul>
 	</div>
 	
