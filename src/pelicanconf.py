@@ -3,7 +3,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Clint Savage'
 SITENAME = u'Uptime SLC'
-SITEURL = 'http://localhost:8000'
+SITEURL = 'http://www.uptimeslc.org'
 SITESUBTITLE = u'A gathering of system administrators and technology enthusiasts'
 
 TIMEZONE = 'America/Denver'
