@@ -9,7 +9,7 @@ UptimeSLC meets at 6:30 p.m. on the third Tuesday of every month. Because uptime
 Attending In Person
 +++++++++++++++++++
 
-Meetings will be held in the Corporate Partnership Center at the Miller Campus of Salt Lake Community College. Room # is 'yet to be determined'.
+Meetings will be held in the Corporate Partnership Center at the Miller Campus of Salt Lake Community College. Room #333.
 
   Here is a `google map <http://localhost>`_ to help you navigate to the Miller Campus.
 
