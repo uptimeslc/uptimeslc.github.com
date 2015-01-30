@@ -11,14 +11,14 @@ Attending In Person
 
 Meetings will be held in the Corporate Partnership Center at the Miller Campus of Salt Lake Community College. Room #333.
 
-  Here is a `google map <http://localhost>`_ to help you navigate to the Miller Campus.
+  Here is a `google map <https://goo.gl/maps/MQr5f>`_ to help you navigate to the Miller Campus.
 
-  Here is a `campus map <http://localhost>`_, the meetings are held in Room #TBD in the MCPC (Miller Corporate Partnership Center).
+  Here is a `campus map <http://www.slcc.edu/locations/miller-campus.aspx>`_, the meetings are held in Room #333 in the MCPC (Miller Corporate Partnership Center).
 
 Attending Online
 ++++++++++++++++
 
-Meetings will also be online for the first two meetings of each topic. To access the meetings, visit the `uptimeSLC YouTube Channel <http://localhost>`_. Additionally, meetings will be announced in the `uptimeSLC Slack Channel <http://localhost>`_.
+Meetings will also be online for the first two meetings of each topic. To access the meetings, visit the `uptimeSLC YouTube Channel <http://ur1.ca/jjsaw>`_. Additionally, meetings will be announced in the `uptimeSLC Meetup Group <http://www.meetup.com/uptimeSLC/>`_.
 
 One advantage of online attendance is it can be done any time after the sessions take place.
 

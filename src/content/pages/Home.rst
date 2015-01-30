@@ -4,7 +4,7 @@ Home
 :date: 2015-01-22
 :save_as: index.html
 
-Welcome to UptimeSLC, a new concept around the Technology User Group. UptimeSLC is a topic-centric group. This means that the meetings will vary every month, allowing more in-depth evaluation and discussion of a topic.
+Welcome to UptimeSLC, a new concept around the Technology User Group. UptimeSLC is a topic-centric group. This means that the format of the meetings will vary every month, allowing more in-depth evaluation and discussion of a topic.
 
   The first meeting on a topic could be a short lecture, or intense discussion to introduce the topic or problem. This meeting is much like the standard meetings currently happening at any other user group.
 
